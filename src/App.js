@@ -1,21 +1,7 @@
-import { Component } from "react";
-import { Route, Switch, Redirect } from "react-router-dom";
+import Home from './components/Home'
 
-// import LoginForm from "./components/LoginForm";
-import Home from "./components/Home";
-import ProtectedRoute from "./components/ProtectedRoute";
+import './App.css'
 
-import "./App.css";
+const App = () => <Home />
 
-class App extends Component {
-  render() {
-    return (
-      <Switch>
-        // <Route exact path="/login" component={LoginForm} />
-        <ProtectedRoute exact path="/" component={Home} />
-      </Switch>
-    );
-  }
-}
-
-export default App;
+export default App
