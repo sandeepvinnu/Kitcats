@@ -1,0 +1,217 @@
+
+.Body{
+    position: absolute;
+  width: 747px;
+  height: 192px;
+  left: 507.92px;
+  top: 297px;
+  }
+  .heading{
+    font-family: 'Bebas Neue';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 96px;
+    text-align: right;
+    letter-spacing: 0.02em;
+    
+    color: #42155E;
+    
+  }
+  .para{
+    position: absolute;
+  width: 729px;
+  height: 24px;
+  left: 500.92px;
+  top: 550px;
+    
+  }
+  .body{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 34px;
+    text-align: right;
+    
+    color: #000000;
+  }
+  
+  .email{
+    font-size: 18px;
+    font-weight: 400;
+    position: absolute;
+  width: 381px;
+  height: 50px;
+  left: 824px;
+  top: 762px;
+  background: #FFFAFE;
+  border: 1px solid #000000;
+  border-radius: 50px;
+  }
+  .password{
+    font-size: 18px;
+    font-weight: 400;
+    position: absolute;
+  width: 381px;
+  height:50px;
+  left: 824px;
+  top: 842px;
+  background: #FFFAFE;
+  border: 1px solid #000000;
+  border-radius: 50px;
+  }
+  .login{
+    font-size: 18px;
+    font-weight: 400;
+    position: absolute;
+  width: 381px;
+  height: 50px;
+  left: 824px;
+  top: 922px;
+  background: #A61AE8;
+  border: 1px solid #000000;
+  border-radius: 50px;
+  }
+  .location{
+    position: absolute;
+  width: 1200px;
+  height: 160px;
+  
+  background: #FFFFFF;
+  box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25), inset 4px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 20px;
+  margin-top: 1100px;
+  margin-left: 75px;
+  }
+  .locbt{
+    position: absolute;
+  width: 720px;
+  height: 60px;
+  
+  border: 1px solid #A61AE8;
+  border-radius: 5px;
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 27px;
+  margin-top: 42px;
+  margin-bottom: 38px;
+  margin-left: 42px;
+  margin-right: 427px;
+  text-align:center;
+  }
+  .searchloc{
+    position: absolute;
+  width: 320px;
+  height: 60px;
+  
+  background: #A61AE8;
+  border-radius: 5px;
+  margin-left: 826.65px;
+  margin-top: 48px;
+  margin-right: 53.35px;
+  margin-bottom: 38px;
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 27px;
+  color: #FFFFFF;
+  }
+  .Image{
+    margin-top:272px;
+  }
+  .Image2{
+    position: absolute;
+  margin-left: 500px;
+  margin-right: 131px;
+  margin-top: 400px;
+  margin-bottom: 66.75%;
+  width: 705px;
+  height: 637px;
+  }
+  .paragraph{
+    position: absolute;
+  width: 963px;
+  height: 144px;
+  left: 274px;
+  top: 2500px;
+  
+  font-family: 'Bebas Neue';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 60px;
+  line-height: 72px;
+  text-align: center;
+  letter-spacing: 0.02em;
+  
+  color: #42155D;
+  
+  }
+  .box1{
+    position: absolute;
+  width: 175px;
+  height: 157px;
+  left: 126px;
+  top: 2780px;
+  }
+  
+  .box2{
+    position: absolute;
+  width: 175px;
+  height: 157px;
+  left: 350px;
+  top: 2780px;
+  }
+  
+  .box3{
+    position: absolute;
+    width: 175px;
+    height: 157px;
+    left: 574px;
+    top: 2780px;
+  }
+  
+  .box4{
+    position: absolute;
+  width: 175px;
+  height: 157px;
+  left: 798px;
+  top: 2780px;
+  }
+  
+  .box5{
+    position: absolute;
+  width: 175px;
+  height: 157px;
+  left: 1022px;
+  top: 2780px;
+  }
+  .box6{
+    position: absolute;
+  width: 175px;
+  height: 157px;
+  left: 1246px;
+  top: 2780px;
+  }
+  
+    
+  .search{
+    position: absolute;
+  width: 312px;
+  height: 65px;
+  left: 600px;
+  top: 3000px;
+  
+  background: #A61AE8;
+  border-radius: 20px;
+  
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 29px;
+  color: #FFFFFF;
+  }
